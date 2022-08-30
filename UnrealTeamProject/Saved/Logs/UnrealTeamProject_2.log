@@ -922,3 +922,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.30-01.22.53:057][994]LogEditorActor: Deleted Actor: StaticMeshActor
 [2022.08.30-01.22.53:065][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2022.08.30-01.22.53:066][994]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.08.30-01.27.11:866][933]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.30-01.27.20:958][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.08.30-01.27.21:043][960]LogSavePackage: Moving '../../../../../../Work/TeamProject/UnrealTeam/UnrealTeamProject/Saved/VehicleAdvExampleMap_Auto1BAC3CC314E009E5A8C99169500774442.tmp' to '../../../../../../Work/TeamProject/UnrealTeam/UnrealTeamProject/Saved/Autosaves/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2022.08.30-01.27.21:045][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap' took 0.093
+[2022.08.30-01.27.21:045][960]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
